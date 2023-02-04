@@ -16,7 +16,7 @@ mein {
 }
 
 .step-box {
-  width: 300px;
+  width: 90%;
   margin-right: 30px;
   padding: 10px;
   position: relative;
@@ -65,7 +65,7 @@ footer {
 
 @media screen and (max-width:768px) {
   header,mein,footer {
-    width: 100%;
+    width: 90%;
     }
     mein {
       display: block;
