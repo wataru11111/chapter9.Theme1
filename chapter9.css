@@ -9,6 +9,10 @@ header {
   background-color: #ff9a4b;
 }
 
+body {
+  margin: 0px;
+  padding: 0px;
+}
 mein {
   width: 960px;
   margin: 50px auto;
@@ -65,7 +69,7 @@ footer {
 
 @media screen and (max-width:768px) {
   header,mein,footer {
-    width: 90%;
+    width: 100%;
     }
     mein {
       display: block;
